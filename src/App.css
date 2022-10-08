@@ -7,6 +7,35 @@
   height: 40vmin;
   pointer-events: none;
 }
+.bot {
+  bottom: 0;
+  right: 0;
+  position: fixed;
+  width: 350px;
+  z-index: 10;
+  opacity: 0.97;
+}
+
+.btn {
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 20px;
+  float: right;
+  padding: 20px;
+  background-color: #F6D9A0;
+  border-radius: 30px;
+box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  margin-bottom: 14px;
+  margin-right: 20px;
+  background-image: url("../public/comment.png");
+  min-height: 70px;
+  min-width: 70px;
+  position: relative;
+}
+
+.btn-close {
+  font-size: x-large;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -29,6 +58,7 @@
   color: #61dafb;
 }
 
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -50,3 +80,5 @@
 
   /* make responsive  */
 }
+
+

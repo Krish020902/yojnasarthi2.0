@@ -1,0 +1,1923 @@
+{
+"pageProps": {
+"schemeData": {
+"_id": "62a33a6ef038bd8499a60910",
+"eligibilityCriteria": {
+"eligibilityDescriptionMarkdown": "#### Eligible borrowers\n\n- Individuals\n- Proprietary concern.\n- Partnership Firm.\n- Private Ltd. Company.\n- Public Company.\n- Any other legal forms.\n\n<br>\n\n<br>\n\nThe applicant should not be defaulter to any bank or financial institution and should have a satisfactory credit track record. The individual borrowers may be required to possess the necessary skills/experience/ knowledge to undertake the proposed activity. The need for educational qualification, if any, need to be assessed based on the nature of the proposed activity, and its requirement.\n",
+"eligibilityDescription": [
+{
+"type": "heading_four",
+"children": [
+{
+"text": "Eligible borrowers"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Individuals"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proprietary concern."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Partnership Firm."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Private Ltd. Company."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Public Company."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Any other legal forms."
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "The applicant should not be defaulter to any bank or financial institution and should have a satisfactory credit track record. The individual borrowers may be required to possess the necessary skills/experience/ knowledge to undertake the proposed activity. The need for educational qualification, if any, need to be assessed based on the nature of the proposed activity, and its requirement."
+}
+]
+}
+]
+},
+"schemeStatus": "PUBLISHED",
+"slug": "pmmy",
+"en": {
+"basicDetails": {
+"schemeOpenDate": "2015-04-08",
+"schemeCloseDate": null,
+"nodalDepartmentName": null,
+"otherMinistryName": null,
+"otherDepartmentNames": null,
+"targetBeneficiaries": [
+{
+"value": "individual",
+"label": "Individual"
+},
+{
+"value": "business-entity",
+"label": "Business Entity"
+}
+],
+"schemeSubCategory": [
+{
+"value": "Loan",
+"label": "Loan"
+}
+],
+"dbtScheme": true,
+"implementingAgency": null,
+"tags": [
+"Loan",
+"Business",
+"MUDRA"
+],
+"schemeName": "Pradhan Mantri Mudra Yojana",
+"schemeShortTitle": "PMMY",
+"level": {
+"value": "central",
+"label": "Central"
+},
+"nodalMinistryName": {
+"value": 499,
+"label": "Ministry Of Finance"
+},
+"schemeCategory": [
+{
+"value": "628ce7f6d6d1a3bde46852d0",
+"label": "Banking,Financial Services and Insurance"
+}
+]
+},
+"schemeContent": {
+"references": [
+{
+"title": "Scheme Brochure",
+"url": "https://www.mudra.org.in/Default/DownloadFile/MudraLoan-SalientFeatures-English.pdf"
+},
+{
+"title": "Scheme FAQs",
+"url": "https://www.mudra.org.in/FAQ"
+}
+],
+"schemeImageUrl": "https://uttara-s3-bucket.s3.ap-south-1.amazonaws.com/schemes/pmmy/pmmy.svg",
+"detailedDescriptionMarkdown": "Pradhan Mantri Mudra Yojana (PMMY) is a flagship scheme of Government of India. The scheme facilitates micro credit/Loan up to Rs. 10 lakh to income generating micro enterprises engaged in the non farm sector in manufacturing, processing, trading or service sector. MUDRA supports Financial Intermediaries to extend loans to the non-corporate, non-farm sector income generating activities of micro and small entities.\nThese Micro and small entities comprises of millions of proprietorship / partnership firms running as small manufacturing units, service sector units, shopkeepers, fruits / vegetable vendors, truck operators, food-service units, repair shops, machine operators, small industries, artisans, food processors and others, in rural and urban\n<br>\n\nThe loans under MUDRA scheme can be availed only through banks and lending institutions which include:\n\n- Public Sector Banks\n- Private Sector Banks\n- State operated cooperative banks\n- Rural banks from regional sector\n- Institutions offering micro finance\n- Financial companies other than banks\n\n#### Interest rate\nInterest rates are charged as per the policy decision of the bank. However, the interest rate charged\nto ultimate borrowers shall be reasonable. \n<br>\n\n<br>\n\n#### Upfront fee/Processing charges\nBanks may consider charging of upfront fee as per their internal guidelines. The upfront fee/processing charges for Shishu loans (Covering loans upto Rs. 50,000/-) are waived by most banks.\n<br>\n\n<br>\n\n#### Note\nThere are no agents or middleman engaged by MUDRA for availing of Mudra Loans. The borrowers are advised to keep away from persons posing as Agents/ facilitators of MUDRA/PMMY.\n<br>\n\n",
+"briefDescription": "Pradhan Mantri Mudra Yojana (PMMY) is a flagship scheme of Government of India. The scheme facilitates micro credit/Loan up to Rs. 10 lakh to income generating micro enterprises engaged in the non farm sector in manufacturing, processing, trading or service sector.",
+"detailedDescription": [
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Pradhan Mantri Mudra Yojana (PMMY) is a flagship scheme of Government of India. The scheme facilitates micro credit/Loan up to Rs. 10 lakh to income generating micro enterprises engaged in the non farm sector in manufacturing, processing, trading or service sector. MUDRA supports Financial Intermediaries to extend loans to the non-corporate, non-farm sector income generating activities of micro and small entities."
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "These Micro and small entities comprises of millions of proprietorship / partnership firms running as small manufacturing units, service sector units, shopkeepers, fruits / vegetable vendors, truck operators, food-service units, repair shops, machine operators, small industries, artisans, food processors and others, in rural and urban"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "The loans under MUDRA scheme can be availed only through banks and lending institutions which include:"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Public Sector Banks"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Private Sector Banks"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "State operated cooperative banks"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Rural banks from regional sector"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Institutions offering micro finance"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Financial companies other than banks"
+}
+]
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "Interest rate"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Interest rates are charged as per the policy decision of the bank. However, the interest rate charged"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "to ultimate borrowers shall be reasonable. "
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "Upfront fee/Processing charges"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Banks may consider charging of upfront fee as per their internal guidelines. The upfront fee/processing charges for Shishu loans (Covering loans upto Rs. 50,000/-) are waived by most banks."
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "Note"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "There are no agents or middleman engaged by MUDRA for availing of Mudra Loans. The borrowers are advised to keep away from persons posing as Agents/ facilitators of MUDRA/PMMY."
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+],
+"benefitTypes": [
+{
+"id": 1,
+"value": "monetary",
+"label": "Monetary"
+}
+],
+"benefits": [
+{
+"type": "paragraph",
+"children": [
+{
+"text": "The benefits under the scheme has been classified under three categories as 'SHISHU', 'KISHOR' and 'TARUN' to signify the stage of growth / development and funding needs of the beneficiary micro unit / entrepreneur."
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Shishu: Covering loans up to Rs. 50,000/- "
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Kishor: Covering loans from Rs. 50,001 to Rs. 5,00,000/-"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Tarun: Covering loans from Rs. 5,00,001 to Rs. 10,00,000/-"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+]
+},
+"applicationProcess": [
+{
+"mode": "Online",
+"url": "",
+"process": [
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Following are the prerequisites for the enrollment process:"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "ID Proof"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Address Proof"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Passport size photograph"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Applicant Signature"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "Proof of Identity / Address of Business Enterprises"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Go to PM MUDRA official website ("
+},
+{
+"type": "link",
+"link": "https://www.mudra.org.in/",
+"children": [
+{
+"text": "https://www.mudra.org.in/"
+}
+]
+},
+{
+"text": ")after that we select the Udyamitra portal - "
+},
+{
+"type": "link",
+"link": "https://udyamimitra.in/",
+"children": [
+{
+"text": "https://udyamimitra.in/"
+}
+]
+},
+{
+"text": ""
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Click on Mudra loan \"Apply Now\""
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Select one of the following:  New entrepreneur/ Existing Entrepreneur/ Self employed professional"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Then, Fill name of applicant, email and Mobile number and Generate OTP"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "After Successful Registration"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Fill Personal Details and Professional Details"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Select hand holding agencies if any help Required for preparing project proposal etc. otherwise click \"Loan Application Center\" and apply now."
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Select the category of loan required - Mudra Sishu / Mudra Kishore/ Mudra Tarun etc."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "The applicant then needs to fill the Business Information like business name, Business Activity etc. and select Industry type like Manufacturing, service, Trading, Agricultural allied."
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Fill Other Information like Fill the director Details, Banking/ Credit facilities Existing, Credit facilities Proposed, Future estimates and Preferred Lander"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Attached all required Document: ID proof, address proof, Applicant photo, Applicant Signature, Proof of Identity/ Address of Business Enterprise etc."
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Once the application for is submitted an Application Number gets generated which needs to be Kept for Future Reference."
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+],
+"schemeDefinitions": []
+}
+},
+"schemeDataHi": {
+"_id": "62a33a6ef038bd8499a60910",
+"eligibilityCriteria": {
+"eligibilityDescriptionMarkdown": "#### Eligible borrowers\n\n- Individuals\n- Proprietary concern.\n- Partnership Firm.\n- Private Ltd. Company.\n- Public Company.\n- Any other legal forms.\n\n<br>\n\n<br>\n\nThe applicant should not be defaulter to any bank or financial institution and should have a satisfactory credit track record. The individual borrowers may be required to possess the necessary skills/experience/ knowledge to undertake the proposed activity. The need for educational qualification, if any, need to be assessed based on the nature of the proposed activity, and its requirement.\n",
+"eligibilityDescription": [
+{
+"type": "heading_four",
+"children": [
+{
+"text": "Eligible borrowers"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Individuals"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proprietary concern."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Partnership Firm."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Private Ltd. Company."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Public Company."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Any other legal forms."
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "The applicant should not be defaulter to any bank or financial institution and should have a satisfactory credit track record. The individual borrowers may be required to possess the necessary skills/experience/ knowledge to undertake the proposed activity. The need for educational qualification, if any, need to be assessed based on the nature of the proposed activity, and its requirement."
+}
+]
+}
+]
+},
+"schemeStatus": "PUBLISHED",
+"slug": "pmmy",
+"hi": {
+"basicDetails": {
+"targetBeneficiaries": [
+{
+"label": "वैयक्तिक"
+},
+{
+"label": "व्यापार इकाई"
+}
+],
+"schemeSubCategory": [
+{
+"label": "ऋृण"
+}
+],
+"tags": [
+"ऋृण",
+"व्यवसाय",
+"मुद्रा"
+],
+"schemeName": "प्रधानमंत्री मुद्रा योजना",
+"schemeShortTitle": "PMMY",
+"level": {
+"label": "केंद्रीय"
+},
+"schemeCategory": [
+{
+"label": "बैंकिंग, वित्तीय सेवाएं और बीमा"
+}
+],
+"nodalMinistryName": {
+"label": "वित्त मत्रांलय"
+}
+},
+"eligibilityCriteria": {
+"eligibilityDescription": [
+{
+"type": "heading_four",
+"children": [
+{
+"text": "पात्र उधारकर्ता"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "व्यक्तियों"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "मालिकाना चिंता।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "साझेदारी फर्म।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "प्राइवेट लिमिटेड कंपनी।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "सार्वजनिक कंपनी।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "कोई अन्य कानूनी रूप।"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "आवेदक किसी भी बैंक या वित्तीय संस्थान का डिफॉल्टर नहीं होना चाहिए और उसका क्रेडिट ट्रैक रिकॉर्ड संतोषजनक होना चाहिए। व्यक्तिगत उधारकर्ताओं को प्रस्तावित गतिविधि को करने के लिए आवश्यक कौशल/अनुभव/ज्ञान रखने की आवश्यकता हो सकती है। शैक्षिक योग्यता की आवश्यकता, यदि कोई हो, का मूल्यांकन प्रस्तावित गतिविधि की प्रकृति और इसकी आवश्यकता के आधार पर किया जाना चाहिए।"
+}
+]
+}
+]
+},
+"schemeContent": {
+"references": [
+{
+"title": "Scheme Brochure",
+"url": "https://www.mudra.org.in/Default/DownloadFile/MudraLoan-SalientFeatures-English.pdf"
+},
+{
+"title": "Scheme FAQs",
+"url": "https://www.mudra.org.in/FAQ"
+}
+],
+"briefDescription": "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई) भारत सरकार की एक प्रमुख योजना है। यह योजना विनिर्माण, प्रसंस्करण, व्यापार या सेवा क्षेत्र में गैर-कृषि क्षेत्र में लगे आय सृजित करने वाले सूक्ष्म उद्यमों को 10 लाख रुपये तक के सूक्ष्म ऋण/ऋण की सुविधा प्रदान करती है।",
+"detailedDescription": [
+{
+"type": "paragraph",
+"children": [
+{
+"text": "प्रधानमंत्री मुद्रा योजना (पीएमएमवाई) भारत सरकार की एक प्रमुख योजना है। यह योजना विनिर्माण, प्रसंस्करण, व्यापार या सेवा क्षेत्र में गैर-कृषि क्षेत्र में लगे आय सृजित करने वाले सूक्ष्म उद्यमों को 10 लाख रुपये तक के सूक्ष्म ऋण/ऋण की सुविधा प्रदान करती है।"
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "इन सूक्ष्म और लघु इकाइयों में ग्रामीण और शहरी में छोटी विनिर्माण इकाइयों, सेवा क्षेत्र की इकाइयों, दुकानदारों, फलों / सब्जी विक्रेताओं, ट्रक ऑपरेटरों, खाद्य सेवा इकाइयों, मरम्मत की दुकानों, मशीन ऑपरेटरों, छोटे उद्योगों, कारीगर, खाद्य प्रोसेसर और अन्य के रूप में चलने वाली लाखों स्वामित्व / साझेदारी फर्म शामिल हैं"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "मुद्रा योजना के तहत ऋण केवल बैंकों और ऋण देने वाली संस्थाओं के माध्यम से प्राप्त किया जा सकता है जिसमें शामिल हैं:"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "सार्वजनिक क्षेत्र के बैंक"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "निजी क्षेत्र के बैंक"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "राज्य संचालित सहकारी बैंक"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "क्षेत्रीय क्षेत्र के ग्रामीण बैंक"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "सूक्ष्म वित्त की पेशकश करने वाले संस्थान"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "बैंकों के अलावा अन्य वित्तीय कंपनियां"
+}
+]
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "ब्याज दर"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "ब्याज दरें बैंक के नीतिगत निर्णय के अनुसार ली जाती हैं। हालांकि, चार्ज की गई ब्याज दर"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "अंतिम उधारकर्ताओं के लिए उचित होगी। "
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "अग्रिम शुल्क/प्रसंस्करण शुल्क"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "बैंक अपने आंतरिक दिशानिर्देशों के अनुसार अग्रिम शुल्क वसूलने पर विचार कर सकते हैं। शिशु ऋण के लिए अग्रिम शुल्क/प्रसंस्करण शुल्क (रु. 50,000/- तक के ऋणों को कवर करना) अधिकांश बैंकों द्वारा माफ कर दिए जाते हैं।"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "नोट"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "मुद्रा ऋण प्राप्त करने के लिए मुद्रा द्वारा कोई एजेंट या बिचौलिया नहीं लगाया गया है। उधारकर्ताओं को सलाह दी जाती है कि वे मुद्रा/पीएमएमवाई के एजेंट/सुविधाकर्ता के रूप में खुद को प्रस्तुत करने वाले व्यक्तियों से दूर रहें।"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+],
+"benefits": [
+{
+"type": "paragraph",
+"children": [
+{
+"text": "योजना के तहत लाभ को तीन श्रेणियों के तहत 'शिशु', 'किशोर' और 'तरुण' के रूप में वर्गीकृत किया गया है, जो लाभार्थी सूक्ष्म इकाई/उद्यमी की वृद्धि/विकास और वित्त पोषण की जरूरतों के चरण को दर्शाता है।"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "शिशु: 50,000/- रुपये तक के ऋण को कवर करना "
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "किशोर: 50,001 रुपये से 5,00,000 रुपये तक के ऋण को कवर करना"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "तरुण: 5,00,001 से रु. 10,00,000/- रुपये के ऋण को कवर करना। "
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+]
+},
+"applicationProcess": [
+{
+"mode": "Online",
+"process": [
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "नामांकन प्रक्रिया के लिए आवश्यक शर्तें निम्नलिखित हैं:"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "आईडी प्रूफ"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "निवास प्रमाण पत्र"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "पासपोर्ट के आकार की तस्वीर"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "आवेदक का हस्ताक्षर"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "व्यावसायिक उद्यमों की पहचान / पते का प्रमाण"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "पीएम मुद्रा की आधिकारिक वेबसाइट पर जाएं ("
+},
+{
+"type": "link",
+"link": "https://www.mudra.org.in/",
+"children": [
+{
+"text": "https://www.mudra.org.in/"
+}
+]
+},
+{
+"text": ")उसके बाद हम उदयमित्र पोर्टल का चयन करते हैं - "
+},
+{
+"type": "link",
+"link": "https://udyamimitra.in/",
+"children": [
+{
+"text": "https://udyamimitra.in/"
+}
+]
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "मुद्रा ऋण पर क्लिक करें \"अभी आवेदन करें\""
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "निम्नलिखित में से एक का चयन करें: नए उद्यमी/मौजूदा उद्यमी/स्व-रोजगार पेशेवर"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "फिर, आवेदक का नाम, ईमेल और मोबाइल नंबर भरें और ओटीपी जेनरेट करें"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "heading_four",
+"children": [
+{
+"text": "सफल पंजीकरण के बाद"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "व्यक्तिगत विवरण और व्यावसायिक विवरण भरें"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "परियोजना प्रस्ताव आदि तैयार करने के लिए यदि कोई सहायता आवश्यक हो तो हैंड होल्डिंग एजेंसियों का चयन करें। अन्यथा \"ऋण आवेदन केंद्र\" पर क्लिक करें और अभी आवेदन करें।"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "आवश्यक ऋण की श्रेणी का चयन करें - मुद्रा शिशु / मुद्रा किशोर / मुद्रा तरुण आदि।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "फिर आवेदक को व्यावसायिक जानकारी जैसे व्यवसाय का नाम, व्यवसाय गतिविधि आदि भरने की आवश्यकता होती है और उद्योग प्रकार जैसे विनिर्माण, सेवा, व्यापार, कृषि संबद्ध का चयन करना होता है।"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "अन्य जानकारी भरें जैसे निदेशक विवरण भरें, मौजूदा बैंकिंग / क्रेडिट सुविधाएं, प्रस्तावित क्रेडिट सुविधाएं, भविष्य के अनुमान और पसंदीदा लैंडर"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "सभी आवश्यक दस्तावेज संलग्न करें: आईडी प्रमाण, पते का प्रमाण, आवेदक का फोटो, आवेदक के हस्ताक्षर, पहचान का प्रमाण / व्यावसायिक उद्यम का पता आदि।"
+}
+]
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "एक बार आवेदन जमा करने के बाद एक आवेदन संख्या उत्पन्न हो जाती है जिसे भविष्य के संदर्भ के लिए रखने की आवश्यकता होती है।"
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+]
+}
+},
+"faqs": {
+"status": "Success",
+"statusCode": 200,
+"errorDescription": "",
+"error": "{}",
+"data": {
+"_id": "62a6cd3bf038bd8499a6835c",
+"schemeId": "62a33a6ef038bd8499a60910",
+"en": {
+"faqs": [
+{
+"question": "Is Khadi Activity Eligible Under PMMY Loans?",
+"answer": "Yes. MUDRA loans are applicable for any activity which results in income generation. As Khadi is one of the eligible activities under Textile sector and in case MUDRA loans are taken for income generation, the same can be covered.\n"
+},
+{
+"question": "Are MUDRA Loans Available For Purchase Of CNG Tempo/Taxi?",
+"answer": "MUDRA loans would be available for purchase of CNG Tempo/Taxi, in case the applicant intends to use the vehicle for commercial purposes.\n"
+},
+{
+"question": "I Have A Savings Bank Account With Corporation Bank, UNNARO Bank. Would Loans Under MUDRA Be Available Based On The SB Account?",
+"answer": "Yes. The applicant can approach the branch and apply for the loan in the format being provided by the said lending institution. The terms and conditions of the loan will be governed by the policies of the lending institution, based on the broad guidelines of RBI. The loan amount will be decided by the requirement of the proposed income generating activity and the repayment terms will be decided by the anticipated cash flow from the activity.\n"
+},
+{
+"question": "Under PMMY-Shishu Loans, What Is The Turn Around Time For Processing The Loan Proposal?",
+"answer": "For Shishu loans, normally the turn-around-time for processing the loan proposals on receipt of complete information is 7 to 10 days.\n"
+},
+{
+"question": "Is It Required To Submit It Returns For The Preceding 2 Years For Availing Loan Of `10 Lakh Under PMMY?",
+"answer": "Generally, IT returns are not insisted for small value loans. However, the requirement of documents will be advised by the concerned lending institutions based on their internal guidelines and policies.\n"
+}
+]
+}
+}
+},
+"faqsHi": {
+"status": "Success",
+"statusCode": 200,
+"errorDescription": "",
+"error": "{}",
+"data": {
+"_id": "62a6cd3bf038bd8499a6835c",
+"schemeId": "62a33a6ef038bd8499a60910",
+"hi": {
+"faqs": [
+{
+"question": "क्या पी.एम.एम.वाई. ऋण के अंतर्गत खादी संबंधी क्रियाकलाप पात्र हैं?",
+"answer": "हाँ। मुद्रा ऋण ऐसे सभी क्रियाकलापों के लिए लागू हैं जिनमें आय उपार्जन होता हो। खादी, कपड़ा क्षेत्र के अंतर्गत एक पात्र क्रियाकलाप है तथा अगर आय उपार्जन के लिए मुद्रा ऋण लिया गया है, तो इसमें इसे कवर किया जा सकता है।\n"
+},
+{
+"question": "क्या सी.एन.जी. टेंपो/टैक्सी की खरीद के लिए मुद्रा ऋण उपलब्ध हैं?",
+"answer": "अगर आवेदक, वाहन को वाणिज्यिक उद्देश्यों के लिए प्रयोग करना चाहता है तो सी.एन.जी. टेंपो/टैक्सी की खरीद के लिए मुद्रा ऋण उपलब्ध होगा।\n"
+},
+{
+"question": "कॉर्पोरेशन बैंक, UNNARO बैंक में मेरा एक बचत बैंक खाता है। क्या मुद्रा के अंतर्गत ऋण एस.बी. खाते के आधार पर उपलब्ध होंगे?",
+"answer": "हाँ। आवेदक शाखा में संपर्क कर सकता है और उक्त ऋणदाता संस्था द्वारा उपलब्ध कराये गए प्रारूप में ऋण के लिए आवेदन कर सकता है। ऋण के नियमों एवं शर्तों पर, भारतीय रिजर्व बैंक के व्यापक दिशानिर्देशों के अनुरूप ऋणदाता संस्था की नीतियां लागू होंगी। ऋण राशि का निर्धारण प्रस्तावित आय उपार्जन क्रियाकलाप की आवश्यकता के अनुसार किया जाएगा एवं पुनर्भुगतान की शर्तें, क्रियाकलाप से अपेक्षित नकदी प्रवाह के आधार पर निर्धारित होंगी।\n"
+},
+{
+"question": "पी.एम.एम.वाई.-शिशु ऋण के अंतर्गत, ऋण प्रस्ताव पर कार्यवाही करने के लिए निर्धारित समय सीमा कितनी है?",
+"answer": "शिशु ऋणों के लिए, पूर्ण जानकारी प्राप्त होने के पश्चात, ऋण प्रस्तावों पर कार्यवाही करने की सामान्य समय सीमा 7 से 10 दिनों की है।\n"
+},
+{
+"question": "क्या पी.एम.एम.वाई. के अंतर्गत ₹10 लाख का ऋण प्राप्त करने के लिए विगत 2 वर्षों के रिटर्न जमा करने आवश्यक हैं?",
+"answer": "आम तौर पर, कम मूल्य के ऋणों के लिए आई.टी. रिटर्न पर जोर नहीं दिया जाता है। हालांकि, अपेक्षित दस्तावेजों के बारे में संबंधित ऋणदाता संस्थानों द्वारा उनके आंतरिक दिशानिर्देशों एवं नीतियों के अनुसार निर्दिष्ट किया जाएगा।\n"
+}
+]
+}
+}
+},
+"docs": {
+"status": "Success",
+"statusCode": 200,
+"errorDescription": "",
+"error": "{}",
+"data": {
+"_id": "62a6cc01f038bd8499a68328",
+"schemeId": "62a33a6ef038bd8499a60910",
+"en": {
+"documents_required": [
+{
+"type": "heading_four",
+"children": [
+{
+"text": "For Sishu Loan"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of identity – Self attested copy of Voter’s ID Card / Driving Licence / PAN Card / Aadhaar Card / Passport / Photo Ids issued by Govt. authority etc."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of Residence : Recent telephone bill / electricity bill / property tax receipt (not older than 2 months) / Voter’s ID Card / Aadhar Card / Passport of Individual / Proprietor / Partners Bank passbook or latest account statement duly attested by Bank Officials / Domicile Certificate / Certificate issued by Govt. Authority / Local Panchayat / Municipality etc."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Applicant’s recent Photograph (2 copies) not older than 6 months."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Quotation of Machinery / other items to be purchased."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Name of Supplier / details of machinery / price of machinery and / or items to be purchased."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of Identity / Address of the Business Enterprise – Copies of relevant Licences / Registration Certificates / Other Documents pertaining to the ownership, identity of address of business unit, if any"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of category like SC / ST / OBC / Minority etc. "
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "For Kishore and Tarun Loan"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of identity - Self certified copy of Voter’s ID card / Driving License / PAN Card / Aadhar Card/Passport."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "2) Proof of Residence - Recent telephone bill, electricity bill, property tax receipt (not older than 2 months), Voter’s ID card, Aadhar Card & Passport of Proprietor/Partners/Directors."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of SC/ST/OBC/Minority."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Proof of Identity/Address of the Business Enterprise -Copies of relevant licenses/registration certificates/other documents pertaining to the ownership, identity and address of business unit."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Applicant should not be defaulter in any Bank/Financial institution."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Statement of accounts (for the last six months), from the existing banker, if any."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Last two years balance sheets of the units along with income tax/sales tax return etc. (Applicable for all cases from Rs.2 Lacs and above)."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Projected balance sheets for one year in case of working capital limits and for the period of the loan in case of term loan (Applicable for all cases from Rs.2 Lacs and above)."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Sales achieved during the current financial year up to the date of submission of application."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Project report (for the proposed project) containing details of technical & economic viability."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "Memorandum and articles of association of the company/Partnership Deed of Partners etc."
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "In absence of third party guarantee, Asset & Liability statement from the borrower including Directors & Partners may be sought to know the net-worth."
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+]
+}
+}
+},
+"docsHi": {
+"status": "Success",
+"statusCode": 200,
+"errorDescription": "",
+"error": "{}",
+"data": {
+"_id": "62a6cc01f038bd8499a68328",
+"schemeId": "62a33a6ef038bd8499a60910",
+"hi": {
+"documents_required": [
+{
+"type": "heading_four",
+"children": [
+{
+"text": "शिशु ऋण के लिए"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "पहचान का प्रमाण - मतदाता पहचान पत्र / ड्राइविंग लाइसेंस / पैन कार्ड / आधार कार्ड / पासपोर्ट / सरकारी प्राधिकारी द्वारा निर्गत फोटोयुक्त पहचान पत्र की स्वप्रमाणित प्रति इत्यादि।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "निवास का प्रमाण: हाल ही का टेलीफोन बिल / बिजली बिल / संपत्ति कर की रसीद (2 माह से अधिक पुरानी न हो) / मतदाता पहचान पत्र / आधार कार्ड / व्यक्ति/प्रोपराइटर /साझेदारों का पासपोर्ट / बैंक पासबुक अथवा बैंक अधिकारियों द्वारा समुचित सत्यापित नवीनतम खाता विवरण / अधिवास प्रमाणपत्र / सरकारी प्राधिकारी प्राधिकरण / स्थानीय पंचायत / नगर पालिका आदि द्वारा निर्गत प्रमाणपत्र।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "आवेदक का हाल का फोटोग्राफ (2 प्रतियां) 6 माह से अधिक पुराना न हो।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "मशीनरी/अन्य चीज़ों का कोटेशन जो क्रय की जानी हैं।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "आपूर्तिकर्ता का नाम/मशीनरी का विवरण/मशीनरी और/अथवा खरीदी जाने वाली चीज़ों की कीमत।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "व्यावसायिक उपक्रम का पहचान का प्रमाण/ पते का प्रमाण - संबंधित लाइसेंस /पंजीकरण प्रमाणपत्र / स्वामित्व से संबंधित अन्य दस्तावेजों की प्रतियां, व्यवसायिक इकाई इकाई के पते का प्रमाण, अगर कोई हो।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "एस.सी./एस.टी./ओ.बी.सी./अल्पसंख्यक इत्यादि श्रेणी का प्रमाण। "
+}
+]
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": "किशोर व तरुण लोन के लिए"
+}
+]
+},
+{
+"type": "ul_list",
+"children": [
+{
+"type": "list_item",
+"children": [
+{
+"text": "पहचान का प्रमाण - मतदाता पहचान पत्र / ड्राइविंग लाइसेंस / पैन कार्ड / आधार कार्ड / पासपोर्ट की स्व प्रमाणित प्रति।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "2) निवास का प्रमाण - हाल का टेलीफोन बिल, बिजली बिल, संपत्ति कर की रसीद (2 माह से अधिक पुरानी न हो), मालिक / साझेदारों / निदेशकों के मतदाता पहचान पत्र, आधार कार्ड तथा पासपोर्ट।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "एस.सी./एस.टी./ओ.बी.सी./अल्पसंख्यक का प्रमाण।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "व्यावसायिक उपक्रम का पहचान का प्रमाण/ पते का प्रमाण - संबंधित लाइसेंस /पंजीकरण प्रमाणपत्र / व्यवसायिक इकाई के स्वामित्व, पहचान और पते से संबंधित अन्य दस्तावेजों की प्रतियां।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "आवेदक किसी बैंक/वित्तीय संस्थान का भुगतानचूककर्ता नहीं होना चाहिए।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "वर्तमान बैंकर के यहां से खातों का विवरण (विगत छह माह का), अगर कोई हो।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "आयकर/बिक्री कर रिटर्न आदि के साथ इकाइयों का विगत दो वर्षों का तुलनपत्र (समस्त मामलों में ₹2 लाख एवं उससे अधिक के लिए लागू)।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "कार्यशील पूंजी सीमा के मामले में एक वर्ष के लिए एवं सावधि ऋण के मामले में ऋण की अवधि तक के लिए अनुमानित तुलनपत्र (समस्त मामलों में ₹2 लाख एवं उससे अधिक के लिए लागू)।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "वर्तमान वित्तीय वर्ष के दौरान आवेदन जमा करने की तारीख तक की बिक्री।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "तकनीकी एवं आर्थिक व्यावहारिकता के विवरण सहित परियोजना रिपोर्ट (प्रस्तावित परियोजना के लिए)।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "कंपनी के संगठन के अंतर्नियम /साझेदारों के साझेदारी विलेख आदि।"
+}
+]
+},
+{
+"type": "list_item",
+"children": [
+{
+"text": "तीसरे पक्ष की गारंटी न होने की स्थिति में, नेटवर्थ ज्ञात करने के लिए निदेशकों एवं साझेदारों सहित ऋणदाता से संपत्ति एवं देयता का विवरण मांगा जा सकता है।"
+}
+]
+},
+{
+"type": "paragraph",
+"children": [
+{
+"text": ""
+}
+]
+}
+]
+}
+]
+}
+}
+}
+},
+"__N_SSG": true
+}
