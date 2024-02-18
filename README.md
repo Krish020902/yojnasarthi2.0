@@ -1,8 +1,14 @@
-# Getting Started with Create React App
+# Description of Webpage
+Yojna Sarthi: Your go-to for government schemes! Easily find tailored schemes matching your criteria and know the required documents at a glance. Simplifying access to support and empowering you to make informed decisions effortlessly.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## GLimpse of Webpage
+
+![Screenshot_20221008_020232](https://github.com/Krish020902/yojnasarthi2.0/assets/96249858/4c4a880b-09f8-48cb-b4eb-f4202974b45b)
+![Screenshot_20221008_020337](https://github.com/Krish020902/yojnasarthi2.0/assets/96249858/c5dba5d2-3c1b-41d3-ad9c-b1e221dd6d24)
+![Screenshot_20221008_020404](https://github.com/Krish020902/yojnasarthi2.0/assets/96249858/775ce694-51fd-4ad2-90f2-9eace316075e)
 
 ## Available Scripts
+
 
 In the project directory, you can run:
 
